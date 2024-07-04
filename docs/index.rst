@@ -1,12 +1,12 @@
-Welcome to Pupper's documentation!
-##################################
+Welcome to the Pupper V3 documentation!
+#########################################
 
-About Pupper
-*************
+About Pupper V3
+****************
 
-Stanford Pupper is a small quadruped robot that can hop, trot, and 
-run around. We hope that its low cost and simple design will allow 
-robot enthusiasts in K-12 and beyond to get their hands on fun, dynamic robots.
+Pupper V3 is a cute companion robot designed to spark joy and teach robotics and AI. 
+
+[Update video]
 
 .. raw:: html
 
@@ -14,19 +14,18 @@ robot enthusiasts in K-12 and beyond to get their hands on fun, dynamic robots.
         <iframe width="560" height="315" src="https://www.youtube.com/embed/NIjodHA78UE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
+Robotics & AI learning platform
+********************************
+Having refined our hands-on labs and curriculum over several years at Stanford University, you can learn robotics and AI from the fundamentals including motor control and kinematics to bleeding-edge topics like visual reinforcement learning and LLM-powered autonomous agency.
 
-The robot's brain is a Raspberry Pi 4 computer, which receives commands from a wireless PS4 controller and controls the servo motors, three per leg,
-to move the feet and body to the right places. 
+Your robot friend
+*******************
+With the power of VLMs like ChatGPT, Pupper can listen and respond to you! Cameras, microphones, and proprioception enable Pupper to sense its environment. Speakers, a high resolution screen, expressive ears, and agile body enable Pupper to express its feelings through voice and motion.
 
-The robot is designed to be "hacked" -- we want you to be able to adjust and expand the robot's behaviors to your heart's content. 
-While the robot can walk out-of-the-box, some of the features you could add include different gaits (bounding, galloping, etc), or
-high level behaviors like playing fetch or following you around. You can also simulate the robot's motion in PyBullet
-before touching the real robot.
+Built with safety in mind
+***************************
 
-To get started, check out the pages linked below on part sourcing and assembly. If you purchase the parts yourself, it'll run you 
-about $900-$1000. However, you can purchase a kit to build the robot from either `MangDang <http://www.mangdang.net/Product?_l=en>`_ or 
-`Cypress Software <https://cypress-software-inc.myshopify.com/>`_ for cheaper than what it would cost you to get the parts yourself. The two vendors sell 
-different options so check both of them out to see what works for you. While we're not affiliated with either company, we've verified both of their kits.
+As a small and light-weight robot with several safety features, Pupper V3 is designed for use around people, including children. See details and advisories in the :ref:`safety` section.
 
 .. toctree::
     :maxdepth: 1
@@ -35,16 +34,14 @@ different options so check both of them out to see what works for you. While we'
     guide/purchasing
     guide/assembly
     guide/software_installation
-    guide/calibration
     guide/operation
 
 
 .. toctree::
     :maxdepth: 1
     :caption: References
-
-    reference/design
-    reference/controller
+    
+    reference/safety
     reference/help
 
 .. image:: _static/pupperpic.PNG

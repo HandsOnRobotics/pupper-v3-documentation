@@ -17,12 +17,12 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Stanford Pupper'
-copyright = '2020, Nathan Kau, Abi Lopez'
-author = 'Nathan Kau, Abi Lopez'
+project = 'Pupper V3'
+copyright = '2024, Hands-On Robotics'
+author = 'Nathan Kau, Gabrael Levine, Thin Nguyen'
 
 # The full version, including alpha/beta/rc tags
-release = '2020'
+release = '2024'
 
 
 # -- General configuration ---------------------------------------------------
