@@ -1,10 +1,10 @@
-Assembly
-========
+Building
+================
 
 .. contents:: :depth: 2
 
 Collect parts
--------------
+---------------
 
 .. image:: ../_static/all_parts.jpg
     :align: center
@@ -13,11 +13,17 @@ Collect parts
 Assemble legs
 --------------
 
+Assemble right leg.
+
 .. image:: ../_static/right_leg.jpg
     :align: center
 
+Assemble leg leg.
+
 .. image:: ../_static/left_leg.jpg
     :align: center
+
+Both legs pictured.
 
 .. image:: ../_static/both_legs.jpg
     :align: center
@@ -25,6 +31,8 @@ Assemble legs
 
 Assemble electronics
 -------------------------
+
+
 
 .. image:: ../_static/electronics_parts.jpg
     :align: center

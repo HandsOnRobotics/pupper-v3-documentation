@@ -29,10 +29,10 @@ As a small and light-weight robot with several safety features, Pupper V3 is des
 
 .. toctree::
     :maxdepth: 1
-    :caption: Build Guide
+    :caption: Make Pupper
 
-    guide/purchasing
-    guide/assembly
+    guide/sourcing_parts
+    guide/building
     guide/software_installation
     guide/operation
 

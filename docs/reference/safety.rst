@@ -29,9 +29,9 @@ Safety features
 
 Emergency shutdown
 --------------------
-- Press the E-STOP switch on Pupper's backpack to immediatel kill power to the robot
+- Press the E-STOP switch on Pupper's backpack to immediately kill power to the robot
 
 
-Maintenence
+Maintenance
 ------------
-- See the [Maintenence] section
+- See the [Maintenance] section
