@@ -10,6 +10,9 @@ Pupper V3 is a cute companion robot designed to spark joy and teach robotics and
 .. image:: _static/completed_standing.jpg
     :align: center
 
+.. raw:: html
+
+    <br>
 
 .. [Update video]
 
@@ -20,16 +23,15 @@ Pupper V3 is a cute companion robot designed to spark joy and teach robotics and
 ..     </div>
 
 Robotics & AI learning platform
-********************************
+=================================
 Developed over several years of course instruction at Stanford University, our hands-on labs and curriculum offer comprehensive instruction in robotics and AI. Students learn foundational topics such as motor control and kinematics, as well as bleeding-edge subjects like visual reinforcement learning and LLM-powered autonomous agency.
 
 Your robot friend
-*******************
+=================================
 With the power of VLMs like ChatGPT, Pupper can listen and respond to you! Cameras, microphones, and proprioception enable Pupper to sense its environment. Speakers, a high resolution screen, expressive ears, and agile body enable Pupper to express its feelings through voice and motion.
 
 Built with safety in mind
-***************************
-
+=================================
 As a small and light-weight robot with several safety features, Pupper V3 is designed for use around people, including children. See details and advisories in the :ref:`safety` section.
 
 .. toctree::
