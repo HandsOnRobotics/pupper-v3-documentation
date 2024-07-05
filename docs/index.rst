@@ -6,13 +6,18 @@ About Pupper V3
 
 Pupper V3 is a cute companion robot designed to spark joy and teach robotics and AI. 
 
-[Update video]
 
-.. raw:: html
+.. image:: _static/completed_standing.jpg
+    :align: center
 
-    <div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/NIjodHA78UE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+
+.. [Update video]
+
+.. .. raw:: html
+
+..     <div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+..         <iframe width="560" height="315" src="https://www.youtube.com/embed/NIjodHA78UE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+..     </div>
 
 Robotics & AI learning platform
 ********************************
