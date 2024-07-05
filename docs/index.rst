@@ -16,7 +16,7 @@ Pupper V3 is a cute companion robot designed to spark joy and teach robotics and
 
 Robotics & AI learning platform
 ********************************
-Having refined our hands-on labs and curriculum over several years at Stanford University, you can learn robotics and AI from the fundamentals including motor control and kinematics to bleeding-edge topics like visual reinforcement learning and LLM-powered autonomous agency.
+Developed over several years of course instruction at Stanford University, our hands-on labs and curriculum offer comprehensive instruction in robotics and AI. Students learn foundational topics such as motor control and kinematics, as well as bleeding-edge subjects like visual reinforcement learning and LLM-powered autonomous agency.
 
 Your robot friend
 *******************
