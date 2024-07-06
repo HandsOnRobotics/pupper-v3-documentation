@@ -64,4 +64,5 @@ Table of contents
     :maxdepth: 1
     :caption: Learn More
     
-    reference/help
+    learn_more/tech_specs
+    learn_more/help
