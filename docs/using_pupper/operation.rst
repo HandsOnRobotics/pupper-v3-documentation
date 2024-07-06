@@ -1,5 +1,5 @@
 =================
-Robot operation
+Operation
 =================
 
 Running the robot

@@ -34,6 +34,9 @@ Built with safety in mind
 =================================
 As a small and light-weight robot with several safety features, Pupper V3 is designed for use around people, including children. See details and advisories in the :ref:`safety` section.
 
+Table of contents
+==================
+
 .. toctree::
     :maxdepth: 1
     :caption: Make Pupper
@@ -41,16 +44,24 @@ As a small and light-weight robot with several safety features, Pupper V3 is des
     guide/sourcing_parts
     guide/building
     guide/software_installation
-    guide/operation
 
 
 .. toctree::
     :maxdepth: 1
-    :caption: References
+    :caption: Use Pupper
     
-    reference/safety
-    reference/help
+    using_pupper/operation
+    using_pupper/safety
+    using_pupper/maintenance
 
-.. image:: _static/pupperpic.PNG
-    :align: center
-    :alt: Pupper Jumping
+.. toctree::
+    :maxdepth: 1
+    :caption: Take Our Course
+    
+    course/course
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Learn More
+    
+    reference/help
