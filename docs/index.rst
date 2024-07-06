@@ -50,8 +50,8 @@ Table of contents
     :maxdepth: 1
     :caption: Use Pupper
     
-    using_pupper/operation
     using_pupper/safety
+    using_pupper/operation
     using_pupper/maintenance
 
 .. toctree::
