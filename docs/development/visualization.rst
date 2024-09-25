@@ -10,7 +10,7 @@ Steps
 4. Source ROS and the workspace and run ``ros2 run foxglove_bridge foxglove_bridge``.
 5. Open Foxglove Studio on your personal computer and choose "Open connection".
 6. Connect to ``ws://pupper.local:8765``.
-7. Download my `Foxglove layout file <>`_ to your personal computer (it sets up the viewers and panels nicely).
+7. Download my `Foxglove layout file <https://github.com/HandsOnRobotics/pupper-v3-documentation/blob/master/docs/data/pupper_v3.json>`_ to your personal computer (it sets up the viewers and panels nicely).
 8. Load my Foxglove layout file by going to LAYOUT in the top right corner, and choosing the file.   
 9. Enjoy!
 
