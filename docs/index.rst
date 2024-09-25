@@ -60,6 +60,12 @@ Table of contents
     learn_more/tech_specs
     learn_more/help
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Development
+    
+    development/visualization
+
 Pupper v3 in action
 ********************
 
