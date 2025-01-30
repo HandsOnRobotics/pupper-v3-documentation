@@ -79,7 +79,13 @@ First-time setup
 
     ``sudo chown -R pi /home/pi``
 
-We are working to make this step unnecessary in the future.
+#. Pair PS5 controller with pupper
+
+    #. Click the Bluetooth icon on the top-right menu bar of the PiOS desktop and click "Add device"
+    #. Press and hold the \\|/ looking button on the top left of the gamepad and the playstation logo button at the same time until you get *flashing* lights
+    #. Select the gamepad from the list of devices and click "Pair" 
+
+We are working to make these steps unnecessary in the future.
 
 ###################################################
 
