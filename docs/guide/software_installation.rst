@@ -31,7 +31,7 @@ From your desktop / laptop:
     .. image:: ../_static/pi_imager_device.png
         :align: center
 
-#. Click "Choose OS", scroll down and select "Use custom" as shown below:
+#. Click "Choose OS", scroll down and select "Use custom" and then select our custom PiOS image you downloaded earlier:
 
     .. image:: ../_static/pi_imager_use_custom_image_screen.png
         :align: center
