@@ -69,6 +69,18 @@ From your desktop / laptop:
 
 #. Once done flashing, insert the USB drive into one of the blue USB 3 ports on the Raspberry Pi 5 and you're done!
 
+
+First-time setup
+^^^^^^^^^^^^^^^^^
+
+#. Turn on Pupper
+#. Connect keyboard and mouse
+#. Open a terminal on Pupper (control-alt-t) and run
+
+    ``sudo chown -R pi /home/pi``
+
+We are working to make this step unnecessary in the future.
+
 ###################################################
 
 TODO
