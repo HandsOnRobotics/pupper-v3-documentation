@@ -38,3 +38,31 @@ Robot controls
 
 .. image:: ../_static/gamepad_controls.png
         :align: center
+
+
+Hosting WiFi network on Pupper (AP mode)
+----------------------------------------
+
+This allows you to connect to Pupper's WiFi network and control it from your computer. This is useful when you don't want to connect directly with an ethernet cable.
+
+#. Plug in a keyboard and mouse to Pupper and use the GUI to create a WiFi network.
+
+    .. image:: ../_static/ap_mode/create_network.png
+            :align: center
+
+#. Set the network name and password. Click "Create".
+
+    .. image:: ../_static/ap_mode/enter_details.png
+            :align: center
+
+#. Optionally, you can configure the Pi to create the network on startup.
+
+    #. Edit connection
+        .. image:: ../_static/ap_mode/edit.png
+                    :align: center
+    #. Edit settings
+        .. image:: ../_static/ap_mode/gear.png
+                    :align: center
+    #. Enable auto connect
+        .. image:: ../_static/ap_mode/connect_auto.png
+                    :align: center
