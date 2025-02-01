@@ -55,7 +55,14 @@ This allows you to connect to Pupper's WiFi network and control it from your com
     .. image:: ../_static/ap_mode/enter_details.png
             :align: center
 
-#. Optionally, you can configure the Pi to create the network on startup.
+#. On your own computer, connect to the Pupper WiFi network you just created. Now you can SSH to the robot as usual:
+
+    ``ssh pi@pupper.local``
+
+    or ``ssh -LA 8765:localhost:8765 pi@pupper.local`` if you want to use Foxglove Studio and pass through git credentials (``-A``).
+
+
+#. Optionally, you can configure the Pi to automatically start the network on startup.
 
     #. Edit connection
         .. image:: ../_static/ap_mode/edit.png
