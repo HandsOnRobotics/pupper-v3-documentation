@@ -19,7 +19,7 @@ Prepare USB drive
 From your desktop / laptop:
 
 #. Download Pi Imager from https://www.raspberrypi.org/software/
-#. Download our custom PiOS image from Google Drive `here <https://drive.google.com/file/d/1a-OG4-mOTl1FWGqtd781xPmMf8ptjysl/view?usp=drive_link>`_
+#. Download our custom PiOS image from Google Drive `here <https://drive.google.com/drive/folders/1DHN-1TVXteCB5OA0ngWWJe6-_iPYVCHJ?usp=drive_link>`_
 #. Plug in USB drive to your computer
 #. Open Pi Imager and you should see menu like below:
 
