@@ -17,10 +17,10 @@ Steps
     ``sudo chown -R pi /home/pi``
 
 #. Modify code (see below)
-#. Build code
+#. Build code::
 
-    ``cd ~/pupperv3-monorepo/ros2_ws``
-    ``./build.sh``
+    cd ~/pupperv3-monorepo/ros2_ws
+    ./build.sh
 
 #. Launch stack
 
