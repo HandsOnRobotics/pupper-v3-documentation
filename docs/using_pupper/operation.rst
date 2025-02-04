@@ -27,11 +27,12 @@ Robots that require stack to be manually launched
 
     #. Try launching stack again as before
     
-#. Continue to next instructions
+#. Continue following the instructions below for robots that automatically launch the stack.
 
 Robots that automatically launch the stack
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Allow the robot to complete calibration. The robot should move its legs until they hit their endstops and then move back into a resting position. [ADD VIDEO]
+#. *Important: Press the "release e-stop" button as shown in the image below to activate the walking policy.*
 
 Robot controls
 ---------------
