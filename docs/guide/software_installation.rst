@@ -75,10 +75,6 @@ First-time setup
 
 #. Turn on Pupper
 #. Connect keyboard and mouse
-#. Open a terminal on Pupper (control-alt-t) and run
-
-    ``sudo chown -R pi /home/pi``
-
 #. Pair PS5 controller with pupper
 
     #. Click the Bluetooth icon on the top-right menu bar of the PiOS desktop and click "Add device"
@@ -87,6 +83,3 @@ First-time setup
 
 We are working to make these steps unnecessary in the future.
 
-###################################################
-
-TODO

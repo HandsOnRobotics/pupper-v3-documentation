@@ -64,6 +64,7 @@ Table of contents
     :maxdepth: 1
     :caption: Development
     
+    development/modifying_code
     development/visualization
 
 Pupper v3 in action
