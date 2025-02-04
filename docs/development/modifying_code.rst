@@ -4,17 +4,17 @@ Modifying Pupper code
 Steps
 -------
 
-#. SSH to Pupper with 
+#. SSH to Pupper with::
 
-    ``ssh -L 8765:localhost:8765 pi@pupper.local``
+    ssh -L 8765:localhost:8765 pi@pupper.local
 
-#. Disable the stack from running on boot (one-time step)
+#. Disable the stack from running on boot (one-time step)::
 
-    ``sudo systemctl disable robot``
+    sudo systemctl disable robot
 
-#. Set correct permissions (one-time step)
+#. Set correct permissions (one-time step)::
 
-    ``sudo chown -R pi /home/pi``
+    sudo chown -R pi /home/pi
 
 #. Modify code (see below)
 #. Build code::
@@ -22,9 +22,9 @@ Steps
     cd ~/pupperv3-monorepo/ros2_ws
     ./build.sh
 
-#. Launch stack
+#. Launch stack::
 
-    ``ros2 launch neural_controller launch.py``
+    ros2 launch neural_controller launch.py
 
 
 Code structure
