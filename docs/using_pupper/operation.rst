@@ -5,8 +5,12 @@ Operation
 Running the robot
 -----------------
 #. Insert the DeWalt battery. Press the black latch as you slide the battery in and release it. 
-   You should feel the latch lock into place once the battery is far enough inside the robot. [TODO: add picture/video]
-#. Power on the robot. Press the E-STOP switch on the back of the robot. [TODO: add picture]
+   You should feel the latch lock into place once the battery is far enough inside the robot. 
+   
+    [TODO: add picture/video]
+#. Power on the robot. Press the E-STOP switch on the back of the robot. 
+    
+    [TODO: add picture]
 
 Robots that require stack to be manually launched
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -33,7 +37,10 @@ Robots that require stack to be manually launched
 Robots that automatically launch the stack
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #. Allow the robot to complete calibration. 
-   The robot should move its legs until they hit their endstops and then move back into a resting position. [TODO: add picture/video]
+   The robot should move its legs until they hit their endstops and then move back into a resting position. 
+   
+    [TODO: add picture/video]
+    
 #. Important: Press the "release e-stop" button as shown in the image below to activate the walking policy. 
    Note that you will need to wait a few seconds after the legs finish calibration for pressing the e-stop release to be effective. 
    Feel free to keep pressing the button until the robot activates.
