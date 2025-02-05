@@ -4,9 +4,17 @@ Modifying Pupper code
 Steps
 -------
 
-#. SSH to Pupper with::
+#.  SSH to Pupper with::
 
-    ssh -L 8765:localhost:8765 pi@pupper.local
+        ssh pi@pupper.local
+    
+    If you want to use Foxglove for visualization instead run::
+    
+        ssh -LA 8765:localhost:8765 pi@pupper.local
+
+    Troubleshooting [#ssh_troubleshooting]_ 
+
+    Enable SSH without password (super convenient!) [#ssh_without_password]_
 
 #. Disable the stack from running on boot (one-time step)::
 
@@ -51,3 +59,14 @@ Add a new controller to control pupper movement
 #. Make a new ROS2 package in ``~/pupperv3-monorepo/ros2_ws/src``.
 #. Write a node that publishes /cmd_vel messages to the ``/cmd_vel`` topic.
 #. Update the ``neural_controller/launch/launch.py`` file to include your new node and possibly disable the joystick twist publisher.
+
+.. rubric:: Footnotes
+
+..  [#ssh_troubleshooting] 
+   
+    If you get an error saying there's already an entry for pupper.local with a different public key in your known_hosts file, run the following command to remove the entry ``ssh-keygen -R pupper.local``
+
+..  [#ssh_without_password] 
+
+    You can SSH into Pupper without a password by following these steps. First `generate a SSH key <https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent>`_. 
+    Then copy your computer's SSH key to Pupper ``ssh-copy-id -i ~/.ssh/id_ed25519.pub pi@pupper.local``
