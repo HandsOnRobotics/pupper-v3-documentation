@@ -57,7 +57,7 @@ Add a new controller to control pupper movement
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Make a new ROS2 package in ``~/pupperv3-monorepo/ros2_ws/src``.
-#. Write a node that publishes /cmd_vel messages to the ``/cmd_vel`` topic.
+#. Write a node that publishes `Twist <http://docs.ros.org/en/noetic/api/geometry_msgs/html/msg/Twist.html>`_ messages to the ``/cmd_vel`` topic.
 #. Update the ``neural_controller/launch/launch.py`` file to include your new node and possibly disable the joystick twist publisher.
 
 .. rubric:: Footnotes
