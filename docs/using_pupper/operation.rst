@@ -5,7 +5,7 @@ Operation
 Robot controls
 ---------------
 
-.. image:: ../_static/gamepad_controls.png
+.. image:: ../_static/operations/gamepad.png
         :align: center
 
 Running the robot
@@ -25,10 +25,19 @@ Robots that automatically launch the stack (default)
    The robot should move its legs until they hit their endstops and then move back into a resting position. 
    
     [TODO: add picture/video]
+
+#. Turn on the controller by pressing the Playstation logo button. Once it's connected to the robot two blue lights and a white light will shine like this:
     
-#.  **Important:** Press the "release e-stop" button as shown in the image above to activate the walking policy. 
+     .. image:: ../_static/operations/connected_ds.png
+                :align: center
+                :scale: 25%
+
+#.  Press the "release e-stop" button as shown in the image above to activate the walking policy. 
     Note that you will need to wait a few seconds after the legs finish calibration for pressing the e-stop release to be effective. 
     Feel free to keep pressing the button until the robot activates.
+
+#.  Note that the robot does not have a hardware low-voltage cutoff so please be careful not to run the robot longer than 40 minutes. 
+    You can check the battery level by turning off the robot (e-stop switch on back), taking out the battery, and pressing the button on the battery.
 
 
 Robots that require stack to be manually launched (development mode)

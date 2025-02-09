@@ -100,7 +100,7 @@ First-time setup
         #. After a few seconds the controller should display solid blue lights and a white light above the PS logo.
         #. Click "Ok" on the "Connection successful" menu.
 
-    - Option 3: Pair PS5 controller via SSH
+    - Option 3: Pair PS5 controller via SSH (only available on newer images)
         #. SSH into the Raspberry Pi 5
         #. Run the script::
         
