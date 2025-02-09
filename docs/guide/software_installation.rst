@@ -83,7 +83,13 @@ First-time setup
     - Option 1: Use mouse to pair PS5 controller to Raspberry Pi (see BOM for recommended wireless integrated keyboard & trackpad) 
         #. Plug mouse into the Raspberry Pi 5
         #. Click the Bluetooth icon on the top-right menu bar of the PiOS desktop and click "Add device"
-        #. Put the controller into pairing mode by pressing and holding the \\|/ looking button on the top left of the gamepad and the playstation logo button at the same time until you get *flashing* lights
+        #.  Put the controller into pairing mode by pressing and holding the \\|/ looking button on the top left of the gamepad and the playstation logo button at the same time until you get *flashing* lights as shown.
+            If the controller turns on not in pairing mode, turn it off by pressing the playstation logo for 10s.
+
+            .. image:: ../_static/software_installation/pair_controller.png
+                :align: center
+                :scale: 50%
+
         #. Select the gamepad from the list of devices and click "Pair"
         #. After a few seconds the controller should display solid blue lights and a white light above the PS logo as shown below:
 
