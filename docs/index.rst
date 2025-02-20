@@ -31,7 +31,13 @@ In just one hour, Pupper can experience 3 months of training by simulating many 
             <iframe width="560" height="315" src="https://www.youtube.com/embed/Ru_f9p1CD5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
 
+Using the OpenAI Realtime API, Pupper can talk and respond to you naturally.
+    
+    .. raw:: html
 
+        <div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+            <iframe width="560" height="315" src="https://youtube.com/embed/wC3sI324AU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
 
 .. image:: _static/completed_standing.jpg
     :align: center
