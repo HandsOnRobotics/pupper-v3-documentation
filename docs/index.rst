@@ -6,6 +6,32 @@ About Pupper V3
 
 Pupper V3 is a cute companion robot designed to spark joy and teach robotics and AI. 
 
+Pupper can interact with users through voice and motion, and is designed to be safe around people, including children. 
+
+    .. raw:: html
+
+        <div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/qZ5vUnVXplI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
+By training Pupper in simulation using reinforcement learning, we can teach it to walk over various obstacles in its way.
+
+    .. raw:: html
+
+        <div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/zOIkW8L4xWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
+
+In just one hour, Pupper can experience 3 months of training by simulating many worlds at once.
+
+    .. raw:: html
+
+        <div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Ru_f9p1CD5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+
+
 
 .. image:: _static/completed_standing.jpg
     :align: center
@@ -70,9 +96,3 @@ Table of contents
 
 Pupper v3 in action
 ********************
-
-.. raw:: html
-
-    <div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/qZ5vUnVXplI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
