@@ -100,5 +100,11 @@ Table of contents
     development/modifying_code
     development/visualization
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Random
+    
+    random/change_face
+
 Pupper v3 in action
 ********************
