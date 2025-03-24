@@ -6,6 +6,11 @@ About Pupper V3
 
 Pupper V3 is a cute companion robot designed to spark joy and teach robotics and AI. 
 
+.. image:: _static/home/pupper_hero.jpeg
+    :align: center
+
+|
+
 Pupper can interact with users through voice and motion, and is designed to be safe around people, including children. 
 
     .. raw:: html
