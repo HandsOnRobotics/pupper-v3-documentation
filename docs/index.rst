@@ -72,7 +72,6 @@ Table of contents
     :caption: Make Pupper
 
     guide/sourcing_parts
-    guide/flashing_control_board
     guide/building
     guide/software_installation
 
