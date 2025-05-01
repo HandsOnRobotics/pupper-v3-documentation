@@ -1,10 +1,9 @@
-Welcome to the Pupper V3 documentation!
+Pupper v3
 #########################################
 
-About Pupper V3
-****************
+Pupper v3 is a cute companion robot designed to spark joy and teach robotics and AI. 
 
-Pupper V3 is a cute companion robot designed to spark joy and teach robotics and AI. 
+Everything is open source and you can build Pupper yourself for about $2000. Join our `Discord community <https://discord.gg/hYMUT8fv>`_ to ask questions, share your progress, and get help from others!
 
 .. image:: _static/home/pupper_hero.jpeg
     :align: center
@@ -64,7 +63,19 @@ Built with safety in mind
 =================================
 As a small and light-weight robot with several safety features, Pupper V3 is designed for use around people, including children. See details and advisories in the :ref:`safety` section.
 
-Table of contents
+Get started building!
+=================================
+
+Pupper is open source and you can build it yourself! We have a detailed guide to help you through the process:
+
+#. :doc:`guide/sourcing_parts`
+#. :doc:`guide/building`
+#. :doc:`guide/software_installation`
+#. :doc:`using_pupper/operation`
+#. :doc:`course/course`
+#. :doc:`development/modifying_code`
+
+Site contents
 ==================
 
 .. toctree::
