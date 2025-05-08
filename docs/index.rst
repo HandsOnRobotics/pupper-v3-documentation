@@ -3,7 +3,7 @@ Pupper v3
 
 Pupper v3 is a cute companion robot designed to spark joy and teach robotics and AI. 
 
-Everything is open source and you can build Pupper yourself for about $2000. Join our `Discord community <https://discord.gg/hYMUT8fv>`_ to ask questions, share your progress, and get help from others!
+Everything is open source and you can build Pupper yourself for about $2000. Join our `Hands-On Robotics Discord community <https://discord.gg/qbmaU8NmP2>`_ to ask questions, share your progress, and get help from others!
 
 .. image:: _static/home/pupper_hero.jpeg
     :align: center
