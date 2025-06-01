@@ -3,6 +3,7 @@ Technical Specifications
 
 Design
 ----------
+* `Onshape CAD model <https://cad.onshape.com/documents/97a1bc3e752ec66822dbb5bb/w/c7f9232ccbc53a2e3f6ee909/e/74c0b3caf828b9fd1994bcd6?renderMode=0&uiState=683be4f0c59fb554ee1111a4>`_
 * 12 degrees of freedom, 3 in each leg
 * 3kg weight
 * Dimensions in crouched position

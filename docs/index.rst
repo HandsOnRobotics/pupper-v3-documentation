@@ -56,7 +56,7 @@ Developed over several years of course instruction at Stanford University, our h
 
 Your robot friend
 =================================
-With the power of VLMs like ChatGPT, Pupper can listen and respond to you! Cameras, microphones, and proprioception enable Pupper to sense its environment. Speakers, a high resolution screen, expressive ears, and agile body enable Pupper to express its feelings through voice and motion.
+Pupper can listen and respond to you using VLMs. Cameras, microphones, and proprioception enable Pupper to sense its environment. Speakers, a high resolution screen, expressive ears, and agile body enable Pupper to express its feelings through voice and motion.
 
 Built with safety in mind
 =================================

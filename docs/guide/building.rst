@@ -27,3 +27,6 @@ Hardware assembly
     <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlexBkoR70eXHJi64f0O1xf0eONj9TrP4Yl5tiR3lfG5ju2HvSBXPMV50s6S55vmgMERlEnyusoFmH/pubembed?start=false&loop=false&delayms=60000" frameborder="0" width="675" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
+CAD
+-----
+For reference: `Onshape CAD model <https://cad.onshape.com/documents/97a1bc3e752ec66822dbb5bb/w/c7f9232ccbc53a2e3f6ee909/e/74c0b3caf828b9fd1994bcd6?renderMode=0&uiState=683be4f0c59fb554ee1111a4>`_
