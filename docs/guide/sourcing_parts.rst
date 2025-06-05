@@ -2,6 +2,13 @@
 Sourcing Parts
 ==================
 
+Pupper is built from a variety of off-the-shelf, custom parts, and 3D printed components.
+If you'd like to build Pupper from scratch, please refer to the bill of materials (BOM) linked below and purchase each part individually.
+You can also buy a kit from:
+
+* `AIFitLab <https://aifitlab.com/products/pupper-v3-stanford-open-source-robotics-dog?variant=43740448555144>`_ (Based in China)
+* (Coming soon) `Hands-On Robotics <https://handsonrobotics.org/>`_ (Based in California, USA)
+
 Bill of Materials
 -------------------
 
@@ -9,25 +16,11 @@ Bill of Materials
 
         <a href="https://docs.google.com/spreadsheets/d/1e6Hyhc8V6_9mfPMaPCI1v3W4uGBJp4r0xIzH3rUtAeI/edit?usp=sharing" target="_blank" style="font-size: 1.2em; font-weight: bold; color: #E53E3E; background-color: #FED7D7; padding: 10px 15px; border-radius: 5px; text-decoration: none; display: inline-block; margin: 10px 0;">📝 Open bill of materials in new tab 📝</a>
 
-Off-the-shelf parts
+PCBs
 ************************
 
-These parts can be purchased from various vendors such as Amazon, Adafruit, McMaster-Carr, AIFitLab, etc.
+Purchasing the two custom PCBs yourself (i.e. not in a kit) is a little tricky. The process is
 
-Custom parts
-************************
-
-Pupper uses several custom parts:
-
-* 3D printed parts
-* Custom Raspberry Pi Hat (called the control board)
-* Custom power distribution board
-
-Purchasing the two custom PCBs is a little tricky. First, the manufacturing files must be downloaded from the links in the BOM. 
-Then, use JLCPCB's global sourcing service to order the required BNO086 IMU. Once those arrive in your global parts inventory, 
-follow JLCPCB's PCBA ordering flow where you will upload the manufacturing files, configure settings, and order the two custom PCBs. 
-
-Buying a kit
-------------------
-
-To save you the pain of sourcing the parts yourself, we are working on a way for those interested to buy a kit from `Hands-On Robotics <https://handsonrobotics.org/>`_. Check back here in a few weeks for more information.
+#. Download the manufacturing files from the links in the BOM. 
+#. Use JLCPCB's global sourcing service to order the BNO086 IMU, which is not available in JLCPCB's local parts inventory.
+#. Once the IMU arrives in your global parts inventory, follow JLCPCB's PCBA ordering flow where you will upload the manufacturing files, configure settings, and order the two custom PCBs. 

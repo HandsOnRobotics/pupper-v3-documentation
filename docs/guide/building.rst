@@ -13,6 +13,7 @@ Hardware preparation
 #. Use a soldering iron at 250c to insert the threaded inserts into all appropriate holes in the printed parts.
 #. Glue squash balls to the lower legs using super glue.
 #. Remove the lens holder from the camera and replace it with the short lens holder and fisheye lens.
+#. If your camera is not focused, focus the camera by attaching it to the Raspberry Pi 5 (see :doc:`software_installation`), using `rpicam-hello <https://www.raspberrypi.com/documentation/computers/camera_software.html>`_ application to view the camera feed, and adjusting the lens until the image is clear.
 
 Hardware assembly
 ------------------------
@@ -29,4 +30,6 @@ Hardware assembly
 
 CAD
 -----
-For reference: `Onshape CAD model <https://cad.onshape.com/documents/97a1bc3e752ec66822dbb5bb/w/c7f9232ccbc53a2e3f6ee909/e/74c0b3caf828b9fd1994bcd6?renderMode=0&uiState=683be4f0c59fb554ee1111a4>`_
+
+* `Onshape CAD model <https://cad.onshape.com/documents/97a1bc3e752ec66822dbb5bb/w/c7f9232ccbc53a2e3f6ee909/e/74c0b3caf828b9fd1994bcd6?renderMode=0&uiState=683be4f0c59fb554ee1111a4>`_
+* `Fusion 360 model <https://a360.co/4kD64eX>`_
