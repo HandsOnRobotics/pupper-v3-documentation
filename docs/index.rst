@@ -3,14 +3,22 @@ Pupper v3
 
 Pupper v3 is a cute companion robot designed to spark joy and teach robotics and AI. 
 
-Everything is open source and you can build Pupper yourself for about $2000. Join our `Hands-On Robotics Discord community <https://discord.gg/qbmaU8NmP2>`_ to ask questions, share your progress, and get help from others!
+Everything is open source and you can build Pupper yourself for about $2000. Join our `Hands-On Robotics Discord community <https://discord.gg/qbmaU8NmP2>`_ to ask questions, share your progress, and get help from others! Pupper is made possible by the generous support of `Hands-On Robotics <https://www.handsonrobotics.org>`_.
 
-Pupper is made possible by the generous support of `Hands-On Robotics <https://www.handsonrobotics.org>`_.
-
-.. image:: _static/home/pupper_hero.jpeg
+.. image:: _static/home/pupper_spin.gif
     :align: center
 
-|
+.. raw:: html
+
+    <div style="text-align: center;">
+        <a href="index.html#get-started-building" style="font-size: 1.2em; font-weight: bold; color: #2563EB; background-color: #DBEAFE; padding: 10px 15px; border-radius: 5px; text-decoration: none; display: inline-block; margin: 10px 0;">🛠️ Get Started Building! 🧰</a>
+    </div>
+
+
+    
+
+Overview
+=================================
 
 Pupper can interact with users through voice and motion, and is designed to be safe around people, including children. 
 
