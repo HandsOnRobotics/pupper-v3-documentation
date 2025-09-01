@@ -53,7 +53,7 @@ From your desktop / laptop:
     #. Set your password (our default is ``rhea123``). 
     #. Replace "Pebble" with your own WiFi name and enter its password. If you want to use a WiFi network with a login screen (like Stanford networks), deselect "Configure Wireless LAN" and configure the WiFi after completing the rest of this setup guide and booting up the Raspberry Pi 5 with the USB drive.
     #. Change the locale settings as desired. 
-    #. Go to the "Services" tab and check the "Enable SSH" box.
+    #. Go to the "Services" tab and check the "Enable SSH" box. Enable password authentication instead of public key authentication.
     #. Click "Save".
 
     .. image:: ../_static/software_installation/pi_imager_os_customizations.png
