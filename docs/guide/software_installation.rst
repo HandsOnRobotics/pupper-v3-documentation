@@ -15,7 +15,8 @@ Prepare USB drive
 
 From your desktop / laptop:
 
-#. Download `Raspberry Pi Imager <https://www.raspberrypi.org/software/>`_ (DO NOT USE BALENA ETCHER)
+#. Download `Raspberry Pi Imager <https://github.com/raspberrypi/rpi-imager/releases/tag/v1.8.5>`__ (Do not use Balena Etcher).
+    Select ``Raspberry.Pi.Imager.1.8.5.dmg`` for Mac or ``imager-1.8.5.exe`` for Windows etc.
 #. Download our custom PiOS image from Google Drive `here <https://drive.google.com/drive/folders/1DHN-1TVXteCB5OA0ngWWJe6-_iPYVCHJ?usp=drive_link>`_
 #. Plug in USB drive to your computer
 #. Open Pi Imager and you should see menu like below:
