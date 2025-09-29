@@ -121,6 +121,7 @@ Site contents
     
     development/modifying_code
     development/visualization
+    development/ai
 
 .. toctree::
     :maxdepth: 1
