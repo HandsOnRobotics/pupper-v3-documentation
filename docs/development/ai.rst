@@ -79,3 +79,22 @@ Known Issues
 * Some tricks make Pupper fall over after completing them. In that case help Pupper back up please to avoid burning out motors due to high torque.
 * The AI agent may take a while to respond depending on internet speed and server load.
 * This is an early work in progress. Expect bugs and incomplete features!
+
+How it works
+----------------------
+The AI system consists of several components working together:
+
+* OpenAI GPT-Realtime model for audio understanding and tool usage. 
+* Cartesia for speech output
+* Google Gemini model for vision understanding and navigation.
+* ROS2 robotics stack for locomotion and tricks.
+
+Conversation
+^^^^^^^^^^^^^^
+The robot streams audio input to the GPT-Realtime cloud API where the LLM processes the audio and generates text responses. For normal conversation, the model just outputs text, which is read aloud by the Cartesia Sonic-2 text-to-speech cloud API.
+
+Tool calling
+^^^^^^^^^^^^^
+If the GPT-Realtime AI thinks an action is appropriate (e.g. "move" or "look around"), then it will automatically output a special tool calling instruction rather than return normal conversational text. Tool calls are not read by Cartesia but instead executed by the robot software system to perform specific robot functions. For instance, the "move" tool will send velocity commands to the ROS2 navigation stack to move the robot. The "analyze_camera_image" tool will capture an image from the robot's camera and send it to the Google Gemini vision model for analysis. The response from the vision model is then fed back into the GPT-Realtime model as context for further conversation. Tricks are done by playing back pre-recorded motions stored on the robot.
+
+Tool calling is an extremely flexible and powerful feature that allows us to extend the robot's capabilities by simply defining new tools that the AI can call. For example, letting the robot set its own speaker volume only took about 10 lines of code! Future tools could include searching the internet, doing special navigation, or even programming new behaviors on the fly!
