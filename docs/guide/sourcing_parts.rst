@@ -6,8 +6,8 @@ Pupper is built from a variety of off-the-shelf, custom parts, and 3D printed co
 If you'd like to build Pupper from scratch, please refer to the bill of materials (BOM) linked below and purchase each part individually.
 You can also buy a kit from:
 
-* `AIFitLab <https://aifitlab.com/products/pupper-v3-stanford-open-source-robotics-dog?variant=43740448555144>`_ (Based in China)
-* (Coming soon) `Hands-On Robotics <https://handsonrobotics.org/>`_ (Based in California, USA)
+* `Present Perfection <https://www.present-perfection.com/product-page/pupper-v3-full-kit>`_ run by our own fantastic kit builder Thinh Nguyen (Steve738 on Discord) who is based in San Jose, California, USA. He's built over 50 Pupper V3 kits for us so far.
+* Unaffiliated robot supplier `AIFitLab <https://aifitlab.com/products/pupper-v3-stanford-open-source-robotics-dog?variant=43740448555144>`_ which is based in China.
 
 Bill of Materials
 -------------------
